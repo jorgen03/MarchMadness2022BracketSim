@@ -1,0 +1,140 @@
+Simulations: 1000, Sigma: 0.09, Alpha: 0.2 
+March Madness 2022 Simulation 
+                    0      3 Team_ID     Sum  Matchup_points  Predict_ratio  Jorgen_ELO
+0             Gonzaga  0.966    1211  259.35          181.08         -78.27     165.426
+2              Kansas  0.958    1242  144.70          168.42          23.72     173.164
+1             Houston  0.959    1222   38.80          132.93          94.13     151.756
+6           Tennessee  0.944    1397   86.13          119.66          33.53     126.366
+3          Texas Tech  0.951    1403   60.10          112.74          52.64     123.268
+5                Duke  0.944    1181   93.86          110.68          16.82     114.044
+4              Baylor  0.949    1124  103.70          110.10           6.40     111.380
+13             Auburn  0.923    1120   95.48          105.68          10.20     107.720
+7           Villanova  0.935    1437   82.83           85.30           2.47      85.794
+8             Arizona  0.934    1112  179.54           82.24         -97.30      62.780
+12               Iowa  0.927    1234   50.58           80.09          29.51      85.992
+10           Kentucky  0.929    1246  116.44           78.29         -38.15      70.660
+9                UCLA  0.932    1417   56.29           68.90          12.61      71.422
+11             Purdue  0.927    1345   60.91           64.74           3.83      65.506
+15     North Carolina  0.911    1314   18.61           35.73          17.12      39.154
+20           Arkansas  0.889    1116   28.40           30.27           1.87      30.644
+21                LSU  0.877    1261   18.36           28.60          10.24      30.648
+18       Saint Mary's  0.902    1388   16.58           25.74           9.16      27.572
+32          Wisconsin  0.851    1458   49.52           24.97         -24.55      20.060
+14              Texas  0.915    1400   13.15           24.16          11.01      26.362
+24              Uconn  0.871    1163   24.89           24.07          -0.82      23.906
+19           Illinois  0.894    1228   33.66           22.35         -11.31      20.088
+16            Memphis  0.903    1272   10.16           19.47           9.31      21.332
+25                TCU   0.87    1395    8.33           16.36           8.03      17.966
+22      San Francisco  0.875    1362    5.53           16.15          10.62      18.274
+17      Virginia Tech  0.903    1439   15.31           15.14          -0.17      15.106
+30         Providence  0.855    1344   18.60           14.90          -3.70      14.160
+26      San Diego St.  0.868    1361    8.59           13.28           4.69      14.218
+33           Miami FL  0.847    1274    9.62           12.84           3.22      13.484
+23           Michigan  0.874    1276   13.40           12.82          -0.58      12.704
+28           Ohio St.  0.861    1326   12.03            9.74          -2.29       9.282
+29            Alabama  0.861    1104   18.17            8.16         -10.01       6.158
+36       Michigan St.   0.84    1277   14.40            7.94          -6.46       6.648
+37           Iowa St.  0.835    1235    8.02            6.90          -1.12       6.676
+34     Loyola Chicago  0.844    1260   10.43            6.44          -3.99       5.642
+31         Notre Dame  0.854    1323    5.61            6.34           0.73       6.486
+38           Davidson  0.826    1172    7.26            5.34          -1.92       4.956
+27            Indiana  0.865    1231    7.08            5.24          -1.84       4.872
+42                USC  0.802    1425   12.10            3.96          -8.14       2.332
+40       Colorado St.  0.819    1161    8.92            3.32          -5.60       2.200
+39         Murray St.  0.824    1293   12.95            3.27          -9.68       1.334
+35          Boise St.  0.843    1129    5.90            3.09          -2.81       2.528
+41          Creighton  0.815    1166    8.37            3.06          -5.31       1.998
+45            Vermont  0.798    1436    5.31            2.51          -2.80       1.950
+44         Seton Hall    0.8    1371    7.57            2.44          -5.13       1.414
+49   South Dakota St.  0.754    1355    6.62            1.52          -5.10       0.500
+47     New Mexico St.  0.758    1308    3.99            1.11          -2.88       0.534
+46          Marquette  0.779    1266    6.33            0.69          -5.64      -0.438
+48        Chattanooga  0.756    1151    4.06            0.59          -3.47      -0.104
+43                UAB    0.8    1412    4.68            0.53          -4.15      -0.300
+50           Richmond  0.707    1350    3.92            0.09          -3.83      -0.676
+53            Colgate  0.603    1159    3.14            0.01          -3.13      -0.616
+51      Saint Peter's  0.679    1389    1.90            0.01          -1.89      -0.368
+60  Cal St. Fullerton  0.467    1168    1.86            0.00          -1.86      -0.372
+61         Wright St.  0.461    1460    1.98            0.00          -1.98      -0.396
+56   Jacksonville St.  0.564    1240    1.96            0.00          -1.96      -0.392
+52              Akron  0.604    1103    2.59            0.00          -2.59      -0.518
+54        Georgia St.  0.598    1209    2.55            0.00          -2.55      -0.510
+59        Montana St.  0.531    1286    2.32            0.00          -2.32      -0.464
+58               Yale  0.545    1463    2.27            0.00          -2.27      -0.454
+57           Longwood  0.554    1255    2.15            0.00          -2.15      -0.430
+63        Norfolk St.  0.434    1313    2.04            0.00          -2.04      -0.408
+62     Texas Southern  0.436    1411    2.00            0.00          -2.00      -0.400
+55           Delaware  0.591    1174    1.99            0.00          -1.99      -0.398
+
+Gonzaga (165.42600000000002) wins vs Georgia State (-0.51)
+Memphis (21.331999999999997) wins vs Boise State (2.5279999999999996)
+Connecticut (23.906) wins vs New Mexico State (0.5340000000000001)
+Arkansas (30.644) wins vs Vermont (1.9499999999999997)
+Notre Dame (6.486) wins vs Alabama (6.1579999999999995)
+Texas Tech (123.268) wins vs Montana State (-0.46399999999999997)
+Michigan State (6.648000000000001) wins vs Davidson (4.9559999999999995)
+Duke (114.04400000000001) wins vs CS Fullerton (-0.37200000000000005)
+Gonzaga (165.42600000000002) wins vs Memphis (21.331999999999997)
+Arkansas (30.644) wins vs Connecticut (23.906)
+Texas Tech (123.268) wins vs Notre Dame (6.486)
+Duke (114.04400000000001) wins vs Michigan State (6.648000000000001)
+Gonzaga (165.42600000000002) wins vs Arkansas (30.644)
+Texas Tech (123.268) wins vs Duke (114.04400000000001)
+Gonzaga (165.42600000000002) wins vs Texas Tech (123.268)
+Gonzaga has won the west
+
+Baylor (111.38) wins vs Norfolk State (-0.40800000000000003)
+North Carolina (39.153999999999996) wins vs Marquette (-0.43800000000000017)
+Saint Mary's (27.572) wins vs Indiana (4.872)
+UCLA (71.42200000000001) wins vs Akron (-0.518)
+Texas (26.362000000000002) wins vs Virginia Tech (15.106)
+Purdue (65.506) wins vs Yale (-0.454)
+San Francisco (18.273999999999997) wins vs Murray State (1.334)
+Kentucky (70.66000000000001) wins vs Saint Peter’s (-0.368)
+Baylor (111.38) wins vs North Carolina (39.153999999999996)
+UCLA (71.42200000000001) wins vs Saint Mary's (27.572)
+Purdue (65.506) wins vs Texas (26.362000000000002)
+Kentucky (70.66000000000001) wins vs San Francisco (18.273999999999997)
+Baylor (111.38) wins vs UCLA (71.42200000000001)
+Kentucky (70.66000000000001) wins vs Purdue (65.506)
+Baylor (111.38) wins vs Kentucky (70.66000000000001)
+Baylor has won the east
+
+Kansas (173.164) wins vs Texas Southern (-0.4)
+San Diego State (14.218) wins vs Creighton (1.9980000000000002)
+Iowa (85.992) wins vs Richmond (-0.676)
+Providence (14.16) wins vs South Dakota State (0.5)
+LSU (30.648000000000003) wins vs Iowa State (6.676)
+Wisconsin (20.06) wins vs Colgate (-0.6160000000000001)
+Miami (13.484) wins vs USC (2.332)
+Auburn (107.72000000000001) wins vs Jacksonville State (-0.392)
+Kansas (173.164) wins vs San Diego State (14.218)
+Iowa (85.992) wins vs Providence (14.16)
+LSU (30.648000000000003) wins vs Wisconsin (20.06)
+Auburn (107.72000000000001) wins vs Miami (13.484)
+Kansas (173.164) wins vs Iowa (85.992)
+Auburn (107.72000000000001) wins vs LSU (30.648000000000003)
+Kansas (173.164) wins vs Auburn (107.72000000000001)
+Kansas has won the midwest
+
+Arizona (62.779999999999994) wins vs Wright State (-0.396)
+TCU (17.966) wins vs Seton Hall (1.4139999999999997)
+Houston (151.756) wins vs UAB (-0.29999999999999993)
+Illinois (20.088) wins vs Chattanooga (-0.10399999999999998)
+Michigan (12.704) wins vs Colorado State (2.2)
+Tennessee (126.366) wins vs Longwood (-0.43)
+Ohio State (9.282) wins vs Loyola Chicago (5.642)
+Villanova (85.794) wins vs Delaware (-0.398)
+Arizona (62.779999999999994) wins vs TCU (17.966)
+Houston (151.756) wins vs Illinois (20.088)
+Tennessee (126.366) wins vs Michigan (12.704)
+Villanova (85.794) wins vs Ohio State (9.282)
+Houston (151.756) wins vs Arizona (62.779999999999994)
+Tennessee (126.366) wins vs Villanova (85.794)
+Houston (151.756) wins vs Tennessee (126.366)
+Houston has won the south
+
+Gonzaga (165.42600000000002) wins vs Baylor (111.38)
+Kansas (173.164) wins vs Houston (151.756)
+Kansas (173.164) wins vs Gonzaga (165.42600000000002)
+Kansas has won the tournament
